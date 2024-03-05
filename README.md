@@ -1,3 +1,8 @@
+HOW TO USE:
+1. Download the v1 .exe release.
+2. Click on the .exe, it will open a commandline.
+3. Input the lenght of the password (i.e. the password PENCIL is made out of 6 letters.) so input 6. The rage is from 1 to 93, less or more than that will explode your device (kidding). Just dont.
+
 A basic password generator done in C++ with a few hours of thinking.
 
 My first project, lazy to fix the bugs, but it's working as long as you don't type something else i.e. letters.
