@@ -1,3 +1,5 @@
+A basic password generator done in C++ with a few hours of thinking.
+
 My first project, lazy to fix the bugs, but it's working as long as you don't type something else i.e. letters.
 
 The code works by generating numbers from 33 to 126. 
