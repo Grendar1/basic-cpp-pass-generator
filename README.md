@@ -18,4 +18,10 @@ Then I printed the value that got contained in the array. (i.e. the random numbe
 
 And so there you have it, a buggy but functional password generator.
 
+SCREENSHOTS:
+![image](https://github.com/Grendar1/basic-cpp-password-generator/assets/96061741/f8288a6a-6276-42bd-9065-bc16282e527f)
+
+![image](https://github.com/Grendar1/basic-cpp-password-generator/assets/96061741/bed5d4ca-d23c-4dcc-9348-4a4a74f3b08b)
+
+
 
